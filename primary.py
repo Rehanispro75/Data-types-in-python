@@ -1,0 +1,7 @@
+#word =input("Enter a word for some information")
+print("The length of your word is :",len(word))
+print(word[0])
+print(word[3])
+print(word[4])
+print(word[2])
+print(word[1])
